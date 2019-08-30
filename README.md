@@ -2,7 +2,7 @@
 
 ## Course Information
 
-**Time**: Monday 6:00pm - 8:55pm  
+**Time**: Monday 6:00pm - 8:50pm  
 **Location**: Camden Campus Center - North Conference Room  
 **Office Hours**: Monday 5:00pm-6:00pm, or by appointment  
 
