@@ -4,19 +4,19 @@
 
 ### When & Where
 
-Time: Monday 6:00pm-8:55pm
+**Time**: Monday 6:00pm - 8:55pm
 
-Location: Camden Campus Center - North Conference Room
+**Location**: Camden Campus Center - North Conference Room
 
-Office Hours: Monday 5:00pm-6:00pm, or by appointment
+**Office Hours**: Monday 5:00pm-6:00pm, or by appointment
 
 ### Instructor Information
 
-Nicholas Sanchirico
+*Nicholas Sanchirico*
 
-Email: nesan@camden.rutgers.edu
+**Email**: nesan@camden.rutgers.edu
 
-Phone: (609) 405-9050
+**Phone**: (609) 405-9050
 
 ## Course Description
 
@@ -55,47 +55,45 @@ There will be a handful of opportunities for extra credit. Any point(s) awarded 
 
 ### Course Outline
 
-#### Class & Assignment Schedule
-
 Our week-to-week is organized as the following; though is subject to change depending on class pace.
 
-* Week 01: What is C++, What is Scientific Computing, Basic Programming
+* **Week 01**: What is C++, What is Scientific Computing, Basic Programming
    * In-Class Assignment 00 Due (Ungraded, but required)
-* Week 02: Functions, Control Structures, Kinematic Equations
+* **Week 02**: Functions, Control Structures, Kinematic Equations
    * Quiz 01
    * Assignment 01 Due
-* Week 03: More on Functions & Control Structures, STL Containers, STL Algorithms, Basic Statistics
+* **Week 03**: More on Functions & Control Structures, STL Containers, STL Algorithms, Basic Statistics
    * Quiz 02
    * Assignment 02 Due
-* Week 04: File IO, Advanced IO Formatting, Amortization Scheduling
+* **Week 04**: File IO, Advanced IO Formatting, Amortization Scheduling
    * Quiz 03
    * Assignment 03 Due
-* Week 05: Random Number Generation, Fractal Geometry & the Mandelbrot Set
+* **Week 05**: Random Number Generation, Fractal Geometry & the Mandelbrot Set
    * Quiz 04
    * Assignment 04 Due
-* Week 06: More on Random Number Generation, Introduction to Monte Carlo Methods
+* **Week 06**: More on Random Number Generation, Introduction to Monte Carlo Methods
    * Quiz 05
    * Assignment 05 Due
-* Week 07: Midterm Examination Review, Midterm Examination, Memory Management
+* **Week 07**: Midterm Examination Review, Midterm Examination, Memory Management
    * Midterm Examination
-* Week 08: More on Memory Management, Introduction to Classes & OOP
+* **Week 08**: More on Memory Management, Introduction to Classes & OOP
    * Quiz 06
    * Assignment 06 Due
-* Week 09: More on Classes & OOP, Dynamic Memory, Dynamic Dispatch
+* **Week 09**: More on Classes & OOP, Dynamic Memory, Dynamic Dispatch
    * Quiz 07
    * Assignment 07 Due
-* Week 10: Introduction to Templates, More on OOP, Ray Tracing Simulations
+* **Week 10**: Introduction to Templates, More on OOP, Ray Tracing Simulations
    * Quiz 08
    * Assignment 08 Due
-* Week 11: N-Body Simulations, Brute Force Methods
+* **Week 11**: N-Body Simulations, Brute Force Methods
    * Quiz 09
    * Assignment 09 Due
-* Week 12: More on N-Body Simulations, Barnes–Hut Approximations
+* **Week 12**: More on N-Body Simulations, Barnes–Hut Approximations
    * Quiz 10
    * Assignment 10 Due
-* Week 13: Parallel Computing, Revisiting Mandelbrot
+* **Week 13**: Parallel Computing, Revisiting Mandelbrot
    * N/A
-* Week 14: More Parallel Computing, Extra Credit Presentations
+* **Week 14**: More Parallel Computing, Extra Credit Presentations
    * Extra Credit Assignment Due
 * Monday, December 16th, 8:00pm - 11:00pm:
    * Final Project Presentations
