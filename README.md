@@ -2,8 +2,6 @@
 
 ## Course Information
 
-### When & Where
-
 **Time**: Monday 6:00pm - 8:55pm  
 **Location**: Camden Campus Center - North Conference Room  
 **Office Hours**: Monday 5:00pm-6:00pm, or by appointment  
@@ -90,11 +88,9 @@ Our week-to-week is organized as the following; though is subject to change depe
   * Quiz 10
   * Assignment 10 Due
 * **Week 13**: Parallel Computing, Revisiting Mandelbrot
-  * N/A
 * **Week 14**: More Parallel Computing, Extra Credit Presentations
   * Extra Credit Assignment Due
-* Monday, December 16th, 8:00pm - 11:00pm:
-  * Final Project Presentations
+* **Monday, December 16th, 8:00pm - 11:00pm**: Final Project Presentations
 
 ## University Policies on Academic Integrity
 
