@@ -26,19 +26,17 @@ This course is a one-semester crash-course on the C++ programming language with 
 
 Students are to miss no more than 2 classes unexcused. We meet only once a week, and missing a class is potentially very damaging to your progress!
 
-### General Expectations
+### Prerequisite Knowledge
 
-First and foremost, anticipate frustration. The material may not come easily and so I expect everyone to work diligently and to be patient with it. I expect you to ask questions and ask for help, do not hesitate to ask anything! I am here to help and I will be more concerned if I do not get questions.
-
-You should be familiar with the bare basics of Linux and Git coming into this class.
+While there are no prerequisites for the course, you should be comfortable with algebra. From a technical perspective, you should be familiar with the bare basics of Linux and Git coming into this class.
 
 ### Grading Policy
 
 The semester will feature the following grades:
-* 10 quizzes : 11%
-* 10 homework assignments: 29%
-* 1 midterm examination: 25%
-* 1 final project presentation: 25%
+* 10 quizzes: 15%
+* 10 homework assignments: 25%
+* 1 midterm examination: 30%
+* 1 final project presentation: 30%
 
 #### Final Grades
 
@@ -52,6 +50,7 @@ Letter grades are assigned as follows:
 * F = 0-59.49
 
 #### Extra Credit
+
 There will be a handful of opportunities for extra credit. Any point(s) awarded are applied directly to your final grade.
 
 ### Course Outline
@@ -60,7 +59,7 @@ There will be a handful of opportunities for extra credit. Any point(s) awarded 
 
 Our week-to-week is organized as the following; though is subject to change depending on class pace.
 
-* Week 01: What is C++, What is Scientific Computing, Basic Programming & IO
+* Week 01: What is C++, What is Scientific Computing, Basic Programming
    * In-Class Assignment 00 Due (Ungraded, but required)
 * Week 02: Functions, Control Structures, Kinematic Equations
    * Quiz 01
@@ -120,7 +119,7 @@ Adherence to these principles is necessary in order to insure that:
 
 Failure to uphold these principles of academic integrity threatens both the reputation of the University and the value of the degrees awarded to its students. Every member of the University community therefore bears a responsibility for ensuring that the highest standards of academic integrity are upheld.
 
-Infractions are not taken lightly and will be pursued to the fullest extent. For additional information, visit [http://academicintegrity.rutgers.edu/](http://academicintegrity.rutgers.edu/)
+Infractions are not taken lightly and will fully be pursued. For additional information, visit [http://academicintegrity.rutgers.edu/](http://academicintegrity.rutgers.edu/)
 
 ## University Policies on Disabilities
 
