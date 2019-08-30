@@ -12,7 +12,7 @@
 
 ### Instructor Information
 
-*Nicholas Sanchirico*
+**Name**: *Nicholas Sanchirico*
 
 **Email**: nesan@camden.rutgers.edu
 
@@ -33,6 +33,7 @@ While there are no prerequisites for the course, you should be comfortable with 
 ### Grading Policy
 
 The semester will feature the following grades:
+
 * 10 quizzes: 15%
 * 10 homework assignments: 25%
 * 1 midterm examination: 30%
@@ -41,6 +42,7 @@ The semester will feature the following grades:
 #### Final Grades
 
 Letter grades are assigned as follows:
+
 * A = 89.5-100
 * B+ = 84.5-89.49
 * B = 79.5-84.49
@@ -58,45 +60,45 @@ There will be a handful of opportunities for extra credit. Any point(s) awarded 
 Our week-to-week is organized as the following; though is subject to change depending on class pace.
 
 * **Week 01**: What is C++, What is Scientific Computing, Basic Programming
-   * In-Class Assignment 00 Due (Ungraded, but required)
+  * In-Class Assignment 00 Due (Ungraded, but required)
 * **Week 02**: Functions, Control Structures, Kinematic Equations
-   * Quiz 01
-   * Assignment 01 Due
+  * Quiz 01
+  * Assignment 01 Due
 * **Week 03**: More on Functions & Control Structures, STL Containers, STL Algorithms, Basic Statistics
-   * Quiz 02
-   * Assignment 02 Due
+  * Quiz 02
+  * Assignment 02 Due
 * **Week 04**: File IO, Advanced IO Formatting, Amortization Scheduling
-   * Quiz 03
-   * Assignment 03 Due
+  * Quiz 03
+  * Assignment 03 Due
 * **Week 05**: Random Number Generation, Fractal Geometry & the Mandelbrot Set
-   * Quiz 04
-   * Assignment 04 Due
+  * Quiz 04
+  * Assignment 04 Due
 * **Week 06**: More on Random Number Generation, Introduction to Monte Carlo Methods
-   * Quiz 05
-   * Assignment 05 Due
+  * Quiz 05
+  * Assignment 05 Due
 * **Week 07**: Midterm Examination Review, Midterm Examination, Memory Management
-   * Midterm Examination
+  * Midterm Examination
 * **Week 08**: More on Memory Management, Introduction to Classes & OOP
-   * Quiz 06
-   * Assignment 06 Due
+  * Quiz 06
+  * Assignment 06 Due
 * **Week 09**: More on Classes & OOP, Dynamic Memory, Dynamic Dispatch
-   * Quiz 07
-   * Assignment 07 Due
+  * Quiz 07
+  * Assignment 07 Due
 * **Week 10**: Introduction to Templates, More on OOP, Ray Tracing Simulations
-   * Quiz 08
-   * Assignment 08 Due
+  * Quiz 08
+  * Assignment 08 Due
 * **Week 11**: N-Body Simulations, Brute Force Methods
-   * Quiz 09
-   * Assignment 09 Due
+  * Quiz 09
+  * Assignment 09 Due
 * **Week 12**: More on N-Body Simulations, Barnes–Hut Approximations
-   * Quiz 10
-   * Assignment 10 Due
+  * Quiz 10
+  * Assignment 10 Due
 * **Week 13**: Parallel Computing, Revisiting Mandelbrot
-   * N/A
+  * N/A
 * **Week 14**: More Parallel Computing, Extra Credit Presentations
-   * Extra Credit Assignment Due
+  * Extra Credit Assignment Due
 * Monday, December 16th, 8:00pm - 11:00pm:
-   * Final Project Presentations
+  * Final Project Presentations
 
 ## University Policies on Academic Integrity
 
@@ -110,6 +112,7 @@ Principles of academic integrity require that every Rutgers University student:
 * uphold the canons of the ethical or professional code of the profession for which he or she is preparing.
 
 Adherence to these principles is necessary in order to insure that:
+
 * everyone is given proper credit for his or her ideas, words, results, and other scholarly accomplishments
 * all student work is fairly evaluated and no student has an inappropriate advantage over others
 * the academic and ethical development of all students is fostered
@@ -123,4 +126,4 @@ Infractions are not taken lightly and will fully be pursued. For additional info
 
 Rutgers University welcomes students with disabilities into all of the University's educational programs. In order to receive consideration for reasonable accommodations, a student with a disability must contact the appropriate disability services office at the campus where you are officially enrolled, participate in an intake interview, and provide documentation:
 
-https://ods.rutgers.edu/students/documentation-guidelines. If the documentation supports your request for reasonable accommodations, your campus’s disability services office will provide you with a Letter of Accommodations. Please share this letter with your instructors and discuss the accommodations with them as early in your courses as possible. To begin this process, please complete the Registration form at https://webapps.rutgers.edu/student-ods/forms/registration.
+[https://ods.rutgers.edu/students/documentation-guidelines](https://ods.rutgers.edu/students/documentation-guidelines). If the documentation supports your request for reasonable accommodations, your campus’s disability services office will provide you with a Letter of Accommodations. Please share this letter with your instructors and discuss the accommodations with them as early in your courses as possible. To begin this process, please complete the Registration form at [https://webapps.rutgers.edu/student-ods/forms/registration](https://webapps.rutgers.edu/student-ods/forms/registration).
