@@ -4,19 +4,15 @@
 
 ### When & Where
 
-**Time**: Monday 6:00pm - 8:55pm
-
-**Location**: Camden Campus Center - North Conference Room
-
-**Office Hours**: Monday 5:00pm-6:00pm, or by appointment
+**Time**: Monday 6:00pm - 8:55pm  
+**Location**: Camden Campus Center - North Conference Room  
+**Office Hours**: Monday 5:00pm-6:00pm, or by appointment  
 
 ### Instructor Information
 
-**Name**: *Nicholas Sanchirico*
-
-**Email**: nesan@camden.rutgers.edu
-
-**Phone**: (609) 405-9050
+**Name**: *Nicholas Sanchirico*  
+**Email**: nesan@camden.rutgers.edu  
+**Phone**: (609) 405-9050  
 
 ## Course Description
 
