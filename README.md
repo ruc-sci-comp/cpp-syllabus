@@ -1,4 +1,4 @@
-# Scientific Computing with C++
+# Scientific Computing with C++ Fall 2019
 
 ## Course Information
 
