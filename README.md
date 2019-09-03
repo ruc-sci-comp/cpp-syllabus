@@ -64,7 +64,7 @@ Our week-to-week is organized as the following; though is subject to change depe
 * **Week 04**: File IO, Advanced IO Formatting, Amortization Scheduling
   * Quiz 03
   * Assignment 03 Due
-* **Week 05**: Random Number Generation, Fractal Geometry & the Mandelbrot Set
+* **Week 05**: Random Number Generation, Probability
   * Quiz 04
   * Assignment 04 Due
 * **Week 06**: More on Random Number Generation, Introduction to Monte Carlo Methods
@@ -87,7 +87,7 @@ Our week-to-week is organized as the following; though is subject to change depe
 * **Week 12**: More on N-Body Simulations, Barnes–Hut Approximations
   * Quiz 10
   * Assignment 10 Due
-* **Week 13**: Parallel Computing, Revisiting Mandelbrot
+* **Week 13**: Parallel Computing, Fractal Geometry & the Mandelbrot Set
 * **Week 14**: More Parallel Computing, Extra Credit Presentations
   * Extra Credit Assignment Due
 * **Monday, December 16th, 8:00pm - 11:00pm**: Final Project Presentations
