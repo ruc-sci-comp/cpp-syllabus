@@ -28,8 +28,8 @@ While there are no prerequisites for the course, you should be comfortable with 
 
 The semester will feature the following grades:
 
-* 10 quizzes: 15%
-* 10 homework assignments: 25%
+* 10 quizzes: 15% (cannot be made up or taken late)
+* 10 homework assignments: 25% (will not be accepted late)
 * 1 midterm examination: 30%
 * 1 final project presentation: 30%
 
@@ -53,41 +53,42 @@ There will be a handful of opportunities for extra credit. Any point(s) awarded 
 
 Our week-to-week is organized as the following; though is subject to change depending on class pace.
 
-* **Week 01**: What is C++, What is Scientific Computing, Basic Programming
+* **Week 01**: What is C++, What is Scientific Computing
   * In-Class Assignment 00 Due (Ungraded, but required)
-* **Week 02**: Functions, Control Structures, Kinematic Equations
-  * Quiz 01
-  * Assignment 01 Due
+* **Week 02**: Basic Programming, Functions, Control Structures, Kinematic Equations
+  * Assignment 00 Due
+  * In-Class Assignment 01 Due
 * **Week 03**: More on Functions & Control Structures, STL Containers, STL Algorithms, Basic Statistics
-  * Quiz 02
+  * Quiz 01
   * Assignment 02 Due
 * **Week 04**: File IO, Advanced IO Formatting, Amortization Scheduling
-  * Quiz 03
+  * Quiz 02
   * Assignment 03 Due
 * **Week 05**: Random Number Generation, Probability
-  * Quiz 04
+  * Quiz 03
   * Assignment 04 Due
 * **Week 06**: More on Random Number Generation, Introduction to Monte Carlo Methods
-  * Quiz 05
+  * Quiz 04
   * Assignment 05 Due
 * **Week 07**: Midterm Examination Review, Midterm Examination, Memory Management
   * Midterm Examination
 * **Week 08**: More on Memory Management, Introduction to Classes & OOP
-  * Quiz 06
+  * Quiz 05
   * Assignment 06 Due
 * **Week 09**: More on Classes & OOP, Dynamic Memory, Dynamic Dispatch
-  * Quiz 07
+  * Quiz 06
   * Assignment 07 Due
 * **Week 10**: Introduction to Templates, More on OOP, Ray Tracing Simulations
-  * Quiz 08
+  * Quiz 07
   * Assignment 08 Due
 * **Week 11**: N-Body Simulations, Brute Force Methods
-  * Quiz 09
+  * Quiz 08
   * Assignment 09 Due
 * **Week 12**: More on N-Body Simulations, Barnes–Hut Approximations
-  * Quiz 10
+  * Quiz 09
   * Assignment 10 Due
 * **Week 13**: Parallel Computing, Fractal Geometry & the Mandelbrot Set
+  * Quiz 10
 * **Week 14**: More Parallel Computing, Extra Credit Presentations
   * Extra Credit Assignment Due
 * **Monday, December 16th, 8:00pm - 11:00pm**: Final Project Presentations
