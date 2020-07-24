@@ -1,10 +1,10 @@
-# Scientific Computing with C++ Fall 2019
+# Scientific Computing with C++ Fall 2020
 
 ## Course Information
 
 **Time**: Monday 6:00pm - 8:50pm  
-**Location**: Camden Campus Center - North Conference Room  
-**Office Hours**: Monday 5:00pm-6:00pm, or by appointment  
+**Location**: Remmote - Discord - https://discord.gg/wUeFsH  
+**Office Hours**: By appointment  
 
 ### Instructor Information
 
@@ -15,10 +15,6 @@
 ## Course Description
 
 This course is a one-semester crash-course on the C++ programming language with applications in scientific computing. The primary goal of the course is to give the student an overview of C++; this will always be the priority. However, we will always be applying the C++ to various topics across STEM to give a broad understanding of how C++ can be applied to mathematics and the sciences.
-
-### Attendance
-
-Students are to miss no more than 2 classes unexcused. We meet only once a week, and missing a class is potentially very damaging to your progress!
 
 ### Prerequisite Knowledge
 
@@ -31,7 +27,7 @@ The semester will feature the following grades:
 * 10 quizzes: 15% (cannot be made up or taken late)
 * 10 homework assignments: 25% (will not be accepted late)
 * 1 midterm examination: 30%
-* 1 final project presentation: 30%
+* 1 final project: 30%
 
 #### Final Grades
 
@@ -54,10 +50,9 @@ There will be a handful of opportunities for extra credit. Any point(s) awarded 
 Our week-to-week is organized as the following; though is subject to change depending on class pace.
 
 * **Week 01**: What is C++, What is Scientific Computing
-  * In-Class Assignment 00 Due (Ungraded, but required)
+  * In-Class Assignment 00
 * **Week 02**: Basic Programming, Functions, Control Structures, Kinematic Equations
-  * Assignment 00 Due
-  * In-Class Assignment 01 Due
+  * Assignment 01 Due
 * **Week 03**: More on Functions & Control Structures, STL Containers, STL Algorithms, Basic Statistics
   * Quiz 01
   * Assignment 02 Due
