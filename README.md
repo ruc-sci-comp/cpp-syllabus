@@ -3,7 +3,7 @@
 ## Course Information
 
 **Time**: Monday 6:00pm - 8:50pm  
-**Location**: Remmote - Discord - https://discord.gg/wUeFsH  
+**Location**: Remote - Discord - https://discord.gg/wUeFsH  
 **Office Hours**: By appointment  
 
 ### Instructor Information
