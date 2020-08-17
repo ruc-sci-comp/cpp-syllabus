@@ -4,7 +4,7 @@
 
 **Time**: Monday 6:00pm - 8:50pm
 
-**Location**: Remote - Discord - https://discord.gg/gGeYhqF
+**Location**: Remote - Discord - https://discord.gg/KMuzcQn
 
 **Office Hours**: By appointment
 
