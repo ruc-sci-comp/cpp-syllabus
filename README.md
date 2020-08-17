@@ -58,7 +58,7 @@ Our week-to-week is organized as the following; though is subject to change depe
 * **Week 01**: What is C++, What is Scientific Computing, Setup & Basic Programming
 * **Week 02**: Basic Programming, Functions, Control Structures, Kinematic Equations
 * **Week 03**: More on Functions & Control Structures, STL Containers, STL Algorithms, Basic Statistics
-* **Week 04**: More on Functions & Control Structures, STL Containers, STL Algorithms, Data Visualization
+* **Week 04**: More on Functions & Control Structures, STL Containers, STL Algorithms, Organizing Data
 * **Week 05**: IO & Formatting, Amortization Scheduling
 * **Week 06**: Random Number Generation, Basic Probability
 * **Week 07**: More on Random Number Generation, Introduction to Monte Carlo Methods
