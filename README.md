@@ -49,11 +49,11 @@ There will be a handful of opportunities for extra credit. Any point(s) awarded 
 
 ### Remote Instruction
 
-Our course will be conducted 100% remotely. We will meeting regularly at the scheduled time for the course via Discord, where I will give a lecture and then assist in coding exercises. Assignments will be given each week and will be due the following week. Quizzes will be given each week.
+Our course will be conducted 100% remotely. We will meeting regularly at the scheduled time for the course via Discord, where I will give a lecture and then assist in coding exercises. Unless noted in class, there will be a quiz and an assignment due almost every class. Weeks 01, 02, 08, and 14 will not have an assignments assigned. Weeks 01, 08, 09,  and 14 will not have a quiz.
 
 ### Course Outline
 
-Our week-to-week is organized as the following; though is subject to change depending on class pace. Unless noted in class, there will be a quiz and an assignment due almost every class. Weeks 01, 02, 08, and 14 will not have an assignments assigned. Weeks 01, 08, 09,  and 14 will not have a quiz.
+Our week-to-week is organized as the following; though is subject to change depending on class pace.
 
 * **Week 01**: What is C++, What is Scientific Computing, Setup & Basic Programming
 * **Week 02**: Basic Programming, Functions, Control Structures, Kinematic Equations
