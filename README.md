@@ -49,7 +49,7 @@ There will be a handful of opportunities for extra credit. Any point(s) awarded 
 
 ### Remote Instruction
 
-Our course will be conducted 100% remotely. We will meeting regularly at the scheduled time for the course via Discord, where I will give a lecture and then assist in coding exercises. Unless noted in class, there will be a quiz and an assignment due almost every class. Weeks 01, 02, 08, and 14 will not have an assignments assigned. Weeks 01, 08, 09,  and 14 will not have a quiz.
+Our course will be conducted 100% remotely. We will meeting regularly at the scheduled time for the course via Discord, where I will give a lecture and then assist in coding exercises. Unless noted in class, there will be a quiz and an assignment due almost every class. Weeks 01, 08, 13, and 14 will not have an assignments assigned. Weeks 01, 08, 09,  and 14 will not have a quiz.
 
 ### Course Outline
 
