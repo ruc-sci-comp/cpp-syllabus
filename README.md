@@ -1,75 +1,75 @@
-# Scientific Computing with C++ Fall 2020
+# Scientific Computing with C++ Fall 2022
 
 ## Course Information
 
 **Time**: Monday 6:00pm - 8:50pm
 
-**Location**: Remote - Discord - https://discord.gg/KMuzcQn
+**Location**: Armitage Hall 101
 
-**Office Hours**: By appointment
+**Office Hours**: Monday 5pm-6pm, or by appointment
 
 ### Instructor Information
 
 **Name**: *Nicholas Sanchirico*  
 **Email**: nesan@camden.rutgers.edu  
-**Phone**: (609) 405-9050  
+**Discord**: DRLEOSPACEMAN#1111
 
 ## Course Description
 
-This course is a one-semester crash-course on the C++ programming language with applications in scientific computing. The primary goal of the course is to give the student an overview of C++; this will always be the priority. However, we will always be applying the C++ to various topics across STEM to give a broad understanding of how C++ can be applied to mathematics and the sciences.
+This is a one-semester crash-course on scientific computing and applications with C++. The goal of this course is to give the student an overview of STEM-oriented computing topics, with solutions implemented with C++. Throughout the course students will gain exposure to modern computing technologies and techniques.
 
 ### Prerequisite Knowledge
 
-While there are no prerequisites for the course, you should be very comfortable with algebra, logic, and problem solving. From a technical perspective, you should be familiar with the basics of Linux, Git, and what it means to write code.
+While there are no prerequisites for the course, you should be very comfortable with algebra, logic, and problem solving. From a technical perspective, you should feel comfortable working with computing systems, with any background in coding and computing being most helpful.
 
 ### Grading Policy
 
 The semester will feature the following grades:
 
 * 10 quizzes: 15%
-* 10 homework assignments: 25%
-* 1 midterm examination: 30%
-* 1 final project: 30%
+* 7 homework assignments: 45%
+* 1 midterm examination: 20%
+* 1 final project: 20%
 
 #### Final Grades
 
 Letter grades are assigned as follows:
 
-* A = 89.5-100
-* B+ = 84.5-89.49
-* B = 79.5-84.49
-* C+ = 74.5-79.49
-* C = 69.5-74.49
-* D = 59.5-69.49
-* F = 0-59.49
+* `89.5 - 100.0` = `A`
+* `84.5 - 89.49` = `B+`
+* `79.5 - 84.49` = `B`
+* `74.5 - 79.49` = `C+`
+* `69.5 - 74.49` = `C`
+* `59.5 - 69.49` = `D`
+* `00.0 - 59.49` = `F`
 
 #### Extra Credit
 
 There will be a handful of opportunities for extra credit. Any point(s) awarded are applied directly to your final grade.
 
-### Remote Instruction
-
-Our course will be conducted 100% remotely. We will meeting regularly at the scheduled time for the course via Discord, where I will give a lecture and then assist in coding exercises. Unless noted in class, there will be a quiz and an assignment due almost every class. Weeks 01, 08, 13, and 14 will not have an assignments assigned. Weeks 01, 08, 09,  and 14 will not have a quiz.
-
 ### Course Outline
 
-Our week-to-week is organized as the following; though is subject to change depending on class pace.
+Our week-to-week is organized as follows, though it is subject to change depending on class pace. Below `A#` refers to when assignments are given and `Q#` refers to when quizzes are administered:
 
-* **Week 01**: What is C++, What is Scientific Computing, Setup, Basic Programming
-* **Week 02**: Basic Programming, Functions, Control Structures, Basic Programming
-* **Week 03**: More on Functions & Control Structures, STL Containers, STL Algorithms, Kinematic Equations
-* **Week 04**: More on Functions & Control Structures, STL Containers, STL Algorithms, Basic Statistics
-* **Week 05**: IO & Formatting, Amortization Scheduling
-* **Week 06**: Random Number Generation, Basic Probability
-* **Week 07**: More on Random Number Generation, Introduction to Monte Carlo Methods
-* **Week 08**: Midterm Examination, Intro to Memory Management
-* **Week 09**: More on Memory Management, Dynamic Memory
-* **Week 10**: Introduction to Classes & OOP, Intro to Rates of Change (Pill Dissolution)
-* **Week 11**: More on Classes & OOP, Optimizing Systems
-* **Week 12**: N-Body Simulations, Brute Force Methods
-* **Week 13**: More on N-Body Simulations, Barnes–Hut Approximations
-* **Week 14**: Parallel Computing, Fractal Geometry & the Mandelbrot Set
-* **TBD**: Final Projects Due
+* **Week 01**: What is Scientific Computing, What is C++, Basic Programming (A1)
+* **Week 02**: Memory, Control Structures (Q1)
+* **Week 03**: Operators, Functions, More Control Structures, Functions (A2)
+* **Week 04**: Functions, Vectors (Q2)
+* **Week 05**: More on Vectors, Introduction to Modeling (A3, Q3)
+* **Week 06**: Scope, References, STL Algorithms (Q4)
+* **Week 07**: Random Number Generation, Monte Carlo Methods (A4, Q5)
+* **Week 08**: Midterm Examination
+* **Week 09**: Classes & Object-Oriented Code (A5, Q6)
+* **Week 10**: Pointers, Multidimensional Data (Q7)
+* **Week 11**: N-Body Simulations, Barnes–Hut Approximations (A6, Q8)
+* **Week 12**: **NO CLASS** (required reading)
+* **Week 13**: Simulating a Complex System (A7, Q9)
+* **Week 14**: Parallel Computing, Fractal Geometry (Q10)
+* **Dec 19th**: Final Projects Due
+
+#### Final Project
+
+Everyone is expected to complete a final project and submit it at the end of the semester. This is an individual project and you will be given a set of topics to choose from. We will cover this in more detail after the first 2 or 3 classes.
 
 ## University Policies on Academic Integrity
 
