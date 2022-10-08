@@ -6,7 +6,7 @@
 
 **Location**: Armitage Hall 101
 
-**Office Hours**: Monday 5pm-6pm, or by appointment
+**Office Hours**: Monday 5pm-6pm (Armitage Hall 312), or by appointment
 
 ### Instructor Information
 
@@ -55,14 +55,14 @@ Our week-to-week is organized as follows, though it is subject to change dependi
 * **Week 02**: Memory, Control Structures (Q1)
 * **Week 03**: Operators, Functions, More Control Structures, Functions (A2)
 * **Week 04**: Functions, Vectors (Q2)
-* **Week 05**: More on Vectors, Introduction to Modeling (A3, Q3)
-* **Week 06**: Scope, References, STL Algorithms (Q4)
-* **Week 07**: Random Number Generation, Monte Carlo Methods (A4, Q5)
-* **Week 08**: Midterm Examination
-* **Week 09**: Classes & Object-Oriented Code (A5, Q6)
+* **Week 05**: More on Vectors, STL/range-v3 Algorithms (A3, Q3)
+* **Week 06**: Scope, References, Lambdas (Q4)
+* **Week 07**: Classes & Object-Oriented Code (A4, Q5)
+* **Week 08**: More on Classes, Midterm Examination
+* **Week 09**: Random Number Generation, Monte Carlo Methods (A5, Q6)
 * **Week 10**: Pointers, Multidimensional Data (Q7)
 * **Week 11**: N-Body Simulations, Barnes–Hut Approximations (A6, Q8)
-* **Week 12**: **NO CLASS** (required reading)
+* **Week 12**: **NO CLASS** (required reading/assignment)
 * **Week 13**: Simulating a Complex System (A7, Q9)
 * **Week 14**: Parallel Computing, Fractal Geometry (Q10)
 * **Dec 19th**: Final Projects Due
