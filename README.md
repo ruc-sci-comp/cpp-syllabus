@@ -51,20 +51,20 @@ There will be a handful of opportunities for extra credit. Any point(s) awarded 
 
 Our week-to-week is organized as follows, though it is subject to change depending on class pace. Below `A#` refers to when assignments are given and `Q#` refers to when quizzes are administered:
 
-* **Week 01**: What is Scientific Computing, What is C++, Basic Programming (A1)
-* **Week 02**: Memory, Control Structures (Q1)
-* **Week 03**: Operators, Functions, More Control Structures, Functions (A2)
-* **Week 04**: Functions, Vectors (Q2)
-* **Week 05**: More on Vectors, STL/range-v3 Algorithms (A3, Q3)
-* **Week 06**: Scope, References, Lambdas (Q4)
-* **Week 07**: Classes & Object-Oriented Code (A4, Q5)
-* **Week 08**: More on Classes, Midterm Examination
-* **Week 09**: Random Number Generation, Monte Carlo Methods (A5, Q6)
-* **Week 10**: Pointers, Multidimensional Data (Q7)
-* **Week 11**: N-Body Simulations, Barnes–Hut Approximations (A6, Q8)
-* **Week 12**: **NO CLASS** (required reading/assignment)
-* **Week 13**: Simulating a Complex System (A7, Q9)
-* **Week 14**: Parallel Computing, Fractal Geometry (Q10)
+* **Week 01 (09/12)**: What is Scientific Computing, What is C++, Basic Programming (A1)
+* **Week 02 (09/19)**: Memory, Control Structures (Q1)
+* **Week 03 (09/26)**: Operators, Functions, More Control Structures, Functions (A2)
+* **Week 04 (10/03)**: Functions, Vectors (Q2)
+* **Week 05 (10/10)**: More on Vectors, STL/range-v3 Algorithms
+* **Week 06 (10/17)**: Scope, References, Lambdas (Q3)
+* **Week 07 (10/24)**: Classes & Object-Oriented Code (A3, Q4)
+* **Week 08 (10/31)**: More on Classes (Q5)
+* **Week 09 (11/07)**: Random Number Generation, Monte Carlo Methods (A4, Q6)
+* **Week 10 (11/14)**: Pointers, Midterm Examination (Q7)
+* **Week 11 (11/21)**: N-Body Simulations, Barnes–Hut Approximations (A5, Q8)
+* **Week 12 (11/28)**: **NO CLASS** (required reading/A6)
+* **Week 13 (12/05)**: Simulating a Complex System (A7, Q9)
+* **Week 14 (12/12)**: Parallel Computing, Fractal Geometry (Q10)
 * **Dec 19th**: Final Projects Due
 
 #### Final Project
