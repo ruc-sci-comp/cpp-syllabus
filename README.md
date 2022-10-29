@@ -58,8 +58,8 @@ Our week-to-week is organized as follows, though it is subject to change dependi
 * **Week 05 (10/10)**: More on Vectors, STL/range-v3 Algorithms
 * **Week 06 (10/17)**: Scope, References, Lambdas (Q3)
 * **Week 07 (10/24)**: Classes & Object-Oriented Code (A3, Q4)
-* **Week 08 (10/31)**: Pointers, Multidimensional Datas (Q5)
-* **Week 09 (11/07)**: Random Number Generation, Monte Carlo Methods (A4, Q6)
+* **Week 08 (10/31)**: Random Number Generation, Monte Carlo Methods (Q5)
+* **Week 09 (11/07)**: Pointers, Multidimensional Data (A4, Q6)
 * **Week 10 (11/14)**: Midterm Examination, Required Reading Assigned
 * **Week 11 (11/21)**: N-Body Simulations, Barnes–Hut Approximations (A5, Q7)
 * **Week 12 (11/28)**: **NO CLASS** (Required Reading Assigned/A6, Q8)
