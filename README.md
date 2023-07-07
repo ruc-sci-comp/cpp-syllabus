@@ -12,7 +12,7 @@
 
 **Name**: *Nicholas Sanchirico*  
 **Email**: nesan@camden.rutgers.edu  
-**Discord**: DRLEOSPACEMAN#1111
+**Discord**: lnk2past
 
 ## Course Description
 
@@ -53,7 +53,7 @@ Our week-to-week is organized as follows, though it is subject to change dependi
 
 * **Week 01 (09/12)**: What is Scientific Computing, What is C++, Basic Programming (A1)
 * **Week 02 (09/19)**: Memory, Control Structures (Q1)
-* **Week 03 (09/26)**: Operators, Functions, More Control Structures, Functions (A2)
+* **Week 03 (09/26)**: Operators, Functions, More Control Structures (A2)
 * **Week 04 (10/03)**: Functions, Vectors (Q2)
 * **Week 05 (10/10)**: More on Vectors, STL/range-v3 Algorithms
 * **Week 06 (10/17)**: Scope, References, Lambdas (Q3)
