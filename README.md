@@ -1,18 +1,17 @@
-# Scientific Computing with C++ Fall 2022
+# Scientific Computing with C++ Spring 2024
 
 ## Course Information
 
 **Time**: Monday 6:00pm - 8:50pm
 
-**Location**: Armitage Hall 101
+**Location**: BSB-335
 
-**Office Hours**: Monday 5pm-6pm (Armitage Hall 312), or by appointment
+**Office Hours**: By appointment
 
 ### Instructor Information
 
 **Name**: *Nicholas Sanchirico*  
 **Email**: nesan@camden.rutgers.edu  
-**Discord**: lnk2past
 
 ## Course Description
 
@@ -51,20 +50,20 @@ There will be a handful of opportunities for extra credit. Any point(s) awarded 
 
 Our week-to-week is organized as follows, though it is subject to change depending on class pace. Below `A#` refers to when assignments are given and `Q#` refers to when quizzes are administered:
 
-* **Week 01 (09/12)**: What is Scientific Computing, What is C++, Basic Programming (A1)
-* **Week 02 (09/19)**: Memory, Control Structures (Q1)
-* **Week 03 (09/26)**: Operators, Functions, More Control Structures (A2)
-* **Week 04 (10/03)**: Functions, Vectors (Q2)
-* **Week 05 (10/10)**: More on Vectors, STL/range-v3 Algorithms
-* **Week 06 (10/17)**: Scope, References, Lambdas (Q3)
-* **Week 07 (10/24)**: Classes & Object-Oriented Code (A3, Q4)
-* **Week 08 (10/31)**: Random Number Generation, Monte Carlo Methods (Q5)
-* **Week 09 (11/07)**: Pointers, Multidimensional Data (A4, Q6)
-* **Week 10 (11/14)**: Midterm Examination, Required Reading Assigned
-* **Week 11 (11/21)**: N-Body Simulations, Barnes–Hut Approximations (A5, Q7)
-* **Week 12 (11/28)**: **NO CLASS** (Required Reading Assigned/A6, Q8)
-* **Week 13 (12/05)**: Simulating a Complex System (A7, Q9)
-* **Week 14 (12/12)**: Parallel Computing, Fractal Geometry (Q10)
+* **Week 01 **: What is Scientific Computing, What is C++, Basic Programming (A1)
+* **Week 02 **: Memory, Control Structures (Q1)
+* **Week 03 **: Operators, Functions, Basic Simulations (A2)
+* **Week 04 **: Functions, Vectors, Kinematics (Q2)
+* **Week 05 **: More on Vectors, STL Algorithms
+* **Week 06 **: Scope, References, Lambdas (Q3)
+* **Week 07 **: Classes & Object-Oriented Code (A3, Q4)
+* **Week 08 **: Midterm Examination, Multidimensional Data
+* **Week 09 **: Random Number Generation, Monte Carlo Methods (A4, Q5)
+* **Week 10 **: N-Body Simulation (A5, Q6)
+* **Week 11 **: State Machines (Q7)
+* **Week 12 **: Decision Trees (A6, Q8)
+* **Week 13 **: Simulating a Complex System Part (A7, Q9)
+* **Week 14 **: Parallel Computing, Fractal Geometry (Q10)
 * **Dec 19th**: Final Projects Due
 
 #### Final Project
