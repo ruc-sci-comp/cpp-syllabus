@@ -50,20 +50,20 @@ There will be a handful of opportunities for extra credit. Any point(s) awarded 
 
 Our week-to-week is organized as follows, though it is subject to change depending on class pace. Below `A#` refers to when assignments are given and `Q#` refers to when quizzes are administered:
 
-* **Week 01 **: What is Scientific Computing, What is C++, Basic Programming (A1)
-* **Week 02 **: Memory, Control Structures (A2, Q1)
-* **Week 03 **: Operators, Functions, Basic Simulations (A3, Q2)
-* **Week 04 **: Functions, Vectors, Basic Kinematics (Q3)
-* **Week 05 **: More on Vectors, STL Algorithms, Kinematics (A4, Q4)
-* **Week 06 **: Scope, References, Lambdas (Q5)
-* **Week 07 **: Classes & Object-Oriented Code (A5, Q6)
-* **Week 08 **: Midterm Examination
-* **Week 09 **: Random Number Generation, Monte Carlo Methods (A6)
-* **Week 10 **: N-Body Simulations (Q7)
-* **Week 11 **: Modeling Behavior & Interaction (Q8)
-* **Week 12 **: Complex Environments (A7, Q9)
-* **Week 13 **: Simulating a Complex System Part (Q10)
-* **Week 14 **: Parallel Computing
+* **Week 01**: What is Scientific Computing, What is C++, Basic Programming (A1)
+* **Week 02**: Memory, Control Structures (A2, Q1)
+* **Week 03**: Operators, Functions, Basic Simulations (A3, Q2)
+* **Week 04**: Functions, Vectors, Basic Kinematics (Q3)
+* **Week 05**: More on Vectors, STL Algorithms, Kinematics (A4, Q4)
+* **Week 06**: Scope, References, Lambdas (Q5)
+* **Week 07**: Classes & Object-Oriented Code (A5, Q6)
+* **Week 08**: Midterm Examination
+* **Week 09**: Random Number Generation, Monte Carlo Methods (A6)
+* **Week 10**: N-Body Simulations (Q7)
+* **Week 11**: Modeling Behavior & Interaction (Q8)
+* **Week 12**: Complex Environments (A7, Q9)
+* **Week 13**: Simulating a Complex System Part (Q10)
+* **Week 14**: Parallel Computing
 * **May TBD**: Final Projects Due
 
 #### Assignments
