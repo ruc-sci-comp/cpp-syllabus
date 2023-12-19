@@ -51,24 +51,40 @@ There will be a handful of opportunities for extra credit. Any point(s) awarded 
 Our week-to-week is organized as follows, though it is subject to change depending on class pace. Below `A#` refers to when assignments are given and `Q#` refers to when quizzes are administered:
 
 * **Week 01 **: What is Scientific Computing, What is C++, Basic Programming (A1)
-* **Week 02 **: Memory, Control Structures (Q1)
-* **Week 03 **: Operators, Functions, Basic Simulations (A2)
-* **Week 04 **: Functions, Vectors, Kinematics (Q2)
-* **Week 05 **: More on Vectors, STL Algorithms
-* **Week 06 **: Scope, References, Lambdas (Q3)
-* **Week 07 **: Classes & Object-Oriented Code (A3, Q4)
-* **Week 08 **: Midterm Examination, Multidimensional Data
-* **Week 09 **: Random Number Generation, Monte Carlo Methods (A4, Q5)
-* **Week 10 **: N-Body Simulation (A5, Q6)
-* **Week 11 **: State Machines (Q7)
-* **Week 12 **: Decision Trees (A6, Q8)
-* **Week 13 **: Simulating a Complex System Part (A7, Q9)
-* **Week 14 **: Parallel Computing, Fractal Geometry (Q10)
-* **Dec 19th**: Final Projects Due
+* **Week 02 **: Memory, Control Structures (A2, Q1)
+* **Week 03 **: Operators, Functions, Basic Simulations (A3, Q2)
+* **Week 04 **: Functions, Vectors, Basic Kinematics (Q3)
+* **Week 05 **: More on Vectors, STL Algorithms, Kinematics (A4, Q4)
+* **Week 06 **: Scope, References, Lambdas (Q5)
+* **Week 07 **: Classes & Object-Oriented Code (A5, Q6)
+* **Week 08 **: Midterm Examination
+* **Week 09 **: Random Number Generation, Monte Carlo Methods (A6)
+* **Week 10 **: N-Body Simulations (Q7)
+* **Week 11 **: Modeling Behavior & Interaction (Q8)
+* **Week 12 **: Complex Environments (A7, Q9)
+* **Week 13 **: Simulating a Complex System Part (Q10)
+* **Week 14 **: Parallel Computing
+* **May TBD**: Final Projects Due
+
+#### Assignments
+
+List of assignments, though also subject to change.
+
+1. Basic Programs 
+2. Basic Programs, Control Structures
+3. Simple Simulation Concepts
+4. Cannonball Simulation
+5. Dynamically Configuring Simulations
+6. Random Walk
+7. Dynamic Path Finding
 
 #### Final Project
 
-Everyone is expected to complete a final project and submit it at the end of the semester. This is an individual project and you will be given a set of topics to choose from. We will cover this in more detail after the first 2 or 3 classes.
+Everyone is expected to complete a final project and submit it at the end of the semester. This is an individual/group project. We will cover this in more detail after the first 2 or 3 classes.
+
+## ChatGPT & AI Technologies
+
+ChatGPT and other AI technologies are in fact powerful tools, and in modern times these tools are accessible to all. While you are not explicitly prohibited from using these tools to facilitate and enhance your learning experience, **you are strictly prohibited from using these tools to perform your work for you**. Using these tools to complete assignments and/or assigned tasks is unproductive for your learning, and using these tools to complete assignments and/or tasks indicates to me that you do not actually know the material or want to learn it. **As such, using ChatGPT and other AI technologies is considered in violation of the academic integrity polocy for this course**. If I suspect that such an AI tool was used to complete any graded work for this course, at a minimum a grade of 0 will be given for that work. No exceptions under any circumstances will be made.
 
 ## University Policies on Academic Integrity
 
