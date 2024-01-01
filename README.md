@@ -46,21 +46,21 @@ Letter grades are assigned as follows:
 
 Our week-to-week is organized as follows, though it is subject to change depending on class pace. Below `A#` refers to when assignments are given and `Q#` refers to when quizzes are administered:
 
-* **Week 01**: What is Scientific Computing, What is C++, Basic Programming (A1)
-* **Week 02**: Memory, Control Structures (A2, Q1)
-* **Week 03**: Operators, Functions, Basic Simulations (A3, Q2)
-* **Week 04**: Functions, Vectors, Basic Kinematics (Q3)
-* **Week 05**: More on Vectors, STL Algorithms, Kinematics (A4, Q4)
-* **Week 06**: Scope, References, Lambdas (Q5)
-* **Week 07**: Classes & Object-Oriented Code (A5, Q6)
-* **Week 08**: Midterm Examination
-* **Week 09**: Random Number Generation, Monte Carlo Methods (A6)
-* **Week 10**: Modeling Behavior & Interaction (Q7)
-* **Week 11**: Complex Environments (A7, Q8)
-* **Week 12**: N-Body Simulations (Q9)
-* **Week 13**: Simulating a Complex System (Q10)
-* **Week 14**: Parallel Computing
-* **May TBD**: Final Projects Due
+* **01/22**: What is Scientific Computing, What is C++, Basic Programming (A1)
+* **01/29**: Memory, Control Structures (A2, Q1)
+* **02/05**: Operators, Functions, Basic Simulations (A3, Q2)
+* **02/12**: Functions, Vectors, Basic Kinematics (Q3)
+* **02/19**: More on Vectors, STL Algorithms, Kinematics (A4, Q4)
+* **02/26**: Scope, References, Lambdas (Q5)
+* **03/04**: Classes & Object-Oriented Code (A5, Q6)
+* **03/18**: Midterm Examination
+* **03/25**: Random Number Generation, Monte Carlo Methods (A6)
+* **04/01**: Modeling Behavior & Interaction (Q7)
+* **04/08**: Complex Environments (A7, Q8)
+* **04/15**: N-Body Simulations (Q9)
+* **04/22**: Simulating a Complex System (Q10)
+* **04/29**: Parallel Computing
+* **05/06**: Final Projects Due
 
 #### Assignments
 
