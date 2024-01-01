@@ -78,11 +78,15 @@ List of assignments, though also subject to change.
 
 Everyone is expected to complete a final project and submit it at the end of the semester. This is an individual/group project. We will cover this in more detail after the first 2 or 3 classes.
 
-## ChatGPT & AI Technologies
+## Academic Integrity
+
+TLDR: just do your own work. Do not copy code, do not use tools to do your work for you.
+
+### ChatGPT & AI Technologies
 
 ChatGPT and other AI technologies are in fact powerful tools, and in modern times these tools are accessible to all. While you are not explicitly prohibited from using these tools to facilitate and enhance your learning experience, **you are strictly prohibited from using these tools to perform your work for you**. Using these tools to complete assignments and/or assigned tasks is unproductive for your learning, and using these tools to complete assignments and/or tasks indicates to me that you do not actually know the material or want to learn it. **As such, using ChatGPT and other AI technologies is considered in violation of the academic integrity polocy for this course**. If I suspect that such an AI tool was used to complete any graded work for this course, at a minimum a grade of 0 will be given for that work. No exceptions under any circumstances will be made.
 
-## University Policies on Academic Integrity
+### University Policy
 
 Principles of academic integrity require that every Rutgers University student:
 
