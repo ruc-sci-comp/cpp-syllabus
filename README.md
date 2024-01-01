@@ -53,6 +53,7 @@ Our week-to-week is organized as follows, though it is subject to change dependi
 * **02/19**: More on Vectors, STL Algorithms, Kinematics (A4, Q4)
 * **02/26**: Scope, References, Lambdas (Q5)
 * **03/04**: Classes & Object-Oriented Code (A5, Q6)
+* **03/11**: NO CLASS - SPRING BREAK
 * **03/18**: Midterm Examination
 * **03/25**: Random Number Generation, Monte Carlo Methods (A6)
 * **04/01**: Modeling Behavior & Interaction (Q7)
