@@ -19,16 +19,16 @@ This is a one-semester crash-course on scientific computing and applications wit
 
 ### Prerequisite Knowledge
 
-While there are no prerequisites for the course, you should be very comfortable with algebra, logic, and problem solving. From a technical perspective, you should feel comfortable working with computing systems, with any background in coding and computing being most helpful.
+While there are no prerequisites for the course, you should be **very comfortable** with algebra, logic, and problem solving. From a technical perspective, you should feel comfortable working with computing systems, with any background in coding and computing being most helpful.
 
 ### Grading Policy
 
 The semester will feature the following grades:
 
-* 10 quizzes: 15%
-* 7 homework assignments: 45%
-* 1 midterm examination: 20%
-* 1 final project: 20%
+* ~10 quizzes
+* ~7 homework assignments
+* 1 midterm examination
+* 1 final project
 
 #### Final Grades
 
@@ -41,10 +41,6 @@ Letter grades are assigned as follows:
 * `69.5 - 74.49` = `C`
 * `59.5 - 69.49` = `D`
 * `00.0 - 59.49` = `F`
-
-#### Extra Credit
-
-There will be a handful of opportunities for extra credit. Any point(s) awarded are applied directly to your final grade.
 
 ### Course Outline
 
@@ -59,9 +55,9 @@ Our week-to-week is organized as follows, though it is subject to change dependi
 * **Week 07**: Classes & Object-Oriented Code (A5, Q6)
 * **Week 08**: Midterm Examination
 * **Week 09**: Random Number Generation, Monte Carlo Methods (A6)
-* **Week 10**: N-Body Simulations (Q7)
-* **Week 11**: Modeling Behavior & Interaction (Q8)
-* **Week 12**: Complex Environments (A7, Q9)
+* **Week 10**: Modeling Behavior & Interaction (Q7)
+* **Week 11**: Complex Environments (A7, Q8)
+* **Week 12**: N-Body Simulations (Q9)
 * **Week 13**: Simulating a Complex System Part (Q10)
 * **Week 14**: Parallel Computing
 * **May TBD**: Final Projects Due
