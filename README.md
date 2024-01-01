@@ -58,7 +58,7 @@ Our week-to-week is organized as follows, though it is subject to change dependi
 * **Week 10**: Modeling Behavior & Interaction (Q7)
 * **Week 11**: Complex Environments (A7, Q8)
 * **Week 12**: N-Body Simulations (Q9)
-* **Week 13**: Simulating a Complex System Part (Q10)
+* **Week 13**: Simulating a Complex System (Q10)
 * **Week 14**: Parallel Computing
 * **May TBD**: Final Projects Due
 
