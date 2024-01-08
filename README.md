@@ -48,19 +48,19 @@ Our week-to-week is organized as follows, though it is subject to change dependi
 
 * **01/22**: What is Scientific Computing, What is C++, Basic Programming (A1)
 * **01/29**: Memory, Control Structures (A2, Q1)
-* **02/05**: Operators, Functions, Basic Simulations (A3, Q2)
-* **02/12**: Functions, Vectors, Basic Kinematics (Q3)
-* **02/19**: More on Vectors, STL Algorithms, Kinematics (A4, Q4)
+* **02/05**: Operators, Functions, Basic Simulations (Q2)
+* **02/12**: Functions, Vectors, Kinematics (A3, Q3)
+* **02/19**: More on Vectors, STL Algorithms, Numerical Error (Q4)
 * **02/26**: Scope, References, Lambdas (Q5)
-* **03/04**: Classes & Object-Oriented Code (A5, Q6)
+* **03/04**: Random Number Generation, Midterm Examination (A4)
 * **03/11**: NO CLASS - SPRING BREAK
-* **03/18**: Midterm Examination
-* **03/25**: Random Number Generation, Monte Carlo Methods (A6)
-* **04/01**: Modeling Behavior & Interaction (Q7)
-* **04/08**: Complex Environments (A7, Q8)
-* **04/15**: N-Body Simulations (Q9)
-* **04/22**: Simulating a Complex System (Q10)
-* **04/29**: Parallel Computing
+* **03/18**: User-defined Types (A5, Q6)
+* **03/25**: Modeling Environments
+* **04/01**: Modeling Behavior & Interaction (A6, Q7)
+* **04/08**: Monte Carlo Methods (Q8)
+* **04/15**: Simulating a Complex System Pt 1 (Q9)
+* **04/22**: Simulating a Complex System Pt 2 (Q10)
+* **04/29**: Parallel Computing, N-Body Simulation
 * **05/06**: Final Projects Due
 
 #### Assignments
@@ -68,12 +68,12 @@ Our week-to-week is organized as follows, though it is subject to change dependi
 List of assignments, though also subject to change.
 
 1. Basic Programs 
-2. Basic Programs, Control Structures
-3. Simple Simulation Concepts
-4. Cannonball Simulation
-5. Dynamically Configuring Simulations
-6. Random Walk
-7. Dynamic Path Finding
+2. Simulation Concepts
+3. Cannonball Simulation
+4. Random Walk
+5. Path Finding
+6. Information Transmission
+7. Low-fidelity Automated Defense System (IN CLASS)
 
 #### Final Project
 
