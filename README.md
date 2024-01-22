@@ -73,7 +73,7 @@ List of assignments, though also subject to change.
 4. Random Walk
 5. Path Finding
 6. Information Transmission
-7. Low-fidelity Automated Defense System (IN CLASS)
+7. Low-fidelity Automated Defense System, or Ant Foraging, or some other topic! (IN CLASS)
 
 #### Final Project
 
