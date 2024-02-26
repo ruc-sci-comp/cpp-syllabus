@@ -50,17 +50,17 @@ Our week-to-week is organized as follows, though it is subject to change dependi
 * **01/29**: Memory, Control Structures
 * **02/05**: Operators, Functions, Basic Simulations (A2, Q1)
 * **02/12**: Functions, Vectors, Kinematics (Q2)
-* **02/19**: More on Vectors, STL Algorithms, Numerical Error (A3, Q3)
-* **02/26**: Scope, References, Lambdas (Q4)
-* **03/04**: Random Number Generation, Midterm Examination (A4)
+* **02/19**: More on Vectors, STL Algorithms, Numerical Error (A3)
+* **02/26**: Scope, References, Lambdas (Q3)
+* **03/04**: User-defined Types (A4, Q4)
 * **03/11**: NO CLASS - SPRING BREAK
-* **03/18**: User-defined Types (A5, Q5)
-* **03/25**: Modeling Environments (Q6)
-* **04/01**: Modeling Behavior & Interaction (A6, Q7)
-* **04/08**: Monte Carlo Methods (Q8)
-* **04/15**: Simulating a Complex System Pt 1 (Q9)
-* **04/22**: Simulating a Complex System Pt 2 (Q10)
-* **04/29**: Parallel Computing, N-Body Simulation
+* **03/18**: Random Number Generation, Midterm Examination (A5)
+* **03/25**: Modeling Environments (Q5)
+* **04/01**: Modeling Behavior & Interaction (A6, Q6)
+* **04/08**: Monte Carlo Methods (Q7)
+* **04/15**: Simulating a Complex System Pt 1 (Q8)
+* **04/22**: Simulating a Complex System Pt 2 (Q9)
+* **04/29**: Parallel Computing, N-Body Simulation (Q10)
 * **05/06**: Final Projects Due
 
 #### Assignments
