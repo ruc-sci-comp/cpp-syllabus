@@ -25,8 +25,8 @@ While there are no prerequisites for the course, you should be **very comfortabl
 
 The semester will feature the following grades:
 
-* ~10 quizzes
-* ~7 homework assignments
+* ~7 quizzes
+* ~5 homework assignments
 * 1 midterm examination
 * 1 final project
 
@@ -54,26 +54,14 @@ Our week-to-week is organized as follows, though it is subject to change dependi
 * **02/26**: Scope, References, Lambdas
 * **03/04**: User-defined Types (A4, Q3)
 * **03/11**: NO CLASS - SPRING BREAK
-* **03/18**: Random Number Generation, Midterm Examination (A5)
-* **03/25**: Modeling Environments (Q4)
-* **04/01**: Modeling Behavior & Interaction (A6, Q5)
-* **04/08**: Monte Carlo Methods (Q6)
-* **04/15**: Simulating a Complex System Pt 1 (Q7)
-* **04/22**: Simulating a Complex System Pt 2 (Q8)
+* **03/18**: Random Number Generation, Midterm Examination
+* **03/25**: Modeling Environments
+* **04/01**: Simulating a Complex System Pt 1 (Ants Foraging Model) (Q4)
+* **04/08**: Simulating a Complex System Pt 2 (Ants Foraging Model) (Q5)
+* **04/15**: Simulating a Complex System Pt 3 (Automated Radar/Defense System) (A5, Q6)
+* **04/22**: Simulating a Complex System Pt 4 (Automated Radar/Defense System) (Q7)
 * **04/29**: Parallel Computing, N-Body Simulation (Q9)
 * **05/06**: Final Projects Due
-
-#### Assignments
-
-List of assignments, though also subject to change.
-
-1. Basic Programs 
-2. Simulation Concepts
-3. Cannonball Simulation
-4. Random Walk
-5. Path Finding
-6. Information Transmission
-7. Low-fidelity Automated Defense System, or Ant Foraging, or some other topic! (IN CLASS)
 
 #### Final Project
 
