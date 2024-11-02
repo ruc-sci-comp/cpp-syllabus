@@ -1,10 +1,10 @@
-# Scientific Computing with C++ Spring 2024
+# Scientific Computing with C++ Spring 2025
 
 ## Course Information
 
 **Time**: Monday 6:00pm - 8:50pm
 
-**Location**: BSB-335
+**Location**: BSB-118
 
 **Office Hours**: By appointment
 
@@ -56,10 +56,10 @@ Our week-to-week is organized as follows, though it is subject to change dependi
 * **03/11**: NO CLASS - SPRING BREAK
 * **03/18**: Random Number Generation, Midterm Examination
 * **03/25**: Modeling Environments
-* **04/01**: Simulating a Complex System Pt 1 (Ants Foraging Model) (Q4)
-* **04/08**: Simulating a Complex System Pt 2 (Ants Foraging Model) (Q5)
-* **04/15**: Simulating a Complex System Pt 3 (Automated Radar/Defense System) (A5, Q6)
-* **04/22**: Simulating a Complex System Pt 4 (Automated Radar/Defense System) (Q7)
+* **04/01**: Simulating a Complex System Pt 1 (TBD) (Q4)
+* **04/08**: Simulating a Complex System Pt 2 (TBD) (Q5)
+* **04/15**: Simulating a Complex System Pt 3 (TBD) (A5, Q6)
+* **04/22**: Simulating a Complex System Pt 4 (TBD) (Q7)
 * **04/29**: Parallel Computing, N-Body Simulation (Q9)
 * **05/06**: Final Projects Due
 
