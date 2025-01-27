@@ -4,14 +4,18 @@
 
 **Time**: Monday 6:00pm - 8:50pm
 
-**Location**: BSB-118
+**Location**: BSB-335
 
 **Office Hours**: By appointment
 
 ### Instructor Information
 
-**Name**: *Nicholas Sanchirico*  
-**Email**: nesan@camden.rutgers.edu  
+**Name**: *Mauro Sanchirico*
+**Email**: *ms3978@camden.rutgers.edu*
+
+### Acknowledgements!
+
+This course was largely developed by Prof. Nick Sanchirico, who is owed temendous thanks for providing these materials. This course will still be taught by Professor N. Sanchirico in subsequent semesters!
 
 ## Course Description
 
@@ -46,22 +50,22 @@ Letter grades are assigned as follows:
 
 Our week-to-week is organized as follows, though it is subject to change depending on class pace. Below `A#` refers to when assignments are given and `Q#` refers to when quizzes are administered:
 
-* **01/22**: What is Scientific Computing, What is C++, Basic Programming (A1)
-* **01/29**: Memory, Control Structures
-* **02/05**: Operators, Functions, Basic Simulations (A2, Q1)
-* **02/12**: Functions, Vectors, Kinematics (Q2)
-* **02/19**: More on Vectors, STL Algorithms, Numerical Error (A3)
-* **02/26**: Scope, References, Lambdas
-* **03/04**: User-defined Types (A4, Q3)
-* **03/11**: NO CLASS - SPRING BREAK
-* **03/18**: Random Number Generation, Midterm Examination
-* **03/25**: Modeling Environments
-* **04/01**: Simulating a Complex System Pt 1 (TBD) (Q4)
-* **04/08**: Simulating a Complex System Pt 2 (TBD) (Q5)
-* **04/15**: Simulating a Complex System Pt 3 (TBD) (A5, Q6)
-* **04/22**: Simulating a Complex System Pt 4 (TBD) (Q7)
-* **04/29**: Parallel Computing, N-Body Simulation (Q9)
-* **05/06**: Final Projects Due
+* Class 01: What is Scientific Computing, What is C++, Basic Programming (A1)
+* Class 02: Memory, Control Structures
+* Class 03: Operators, Functions, Basic Simulations (A2, Q1)
+* Class 04: Functions, Vectors, Kinematics (Q2)
+* Class 05: More on Vectors, STL Algorithms, Numerical Error (A3)
+* Class 06: Scope, References, Lambdas
+* Class 07: User-defined Types (A4, Q3)
+* SPRING BREAK
+* Class 08: Random Number Generation, Midterm Examination
+* Class 09: Modeling Environments
+* Class 10: Simulating a Complex System Pt 1 (TBD) (Q4)
+* Class 11: Simulating a Complex System Pt 2 (TBD) (Q5)
+* Class 12: Simulating a Complex System Pt 3 (TBD) (A5, Q6)
+* Class 13: Simulating a Complex System Pt 4 (TBD) (Q7)
+* Class 14: Parallel Computing, N-Body Simulation (Q9)
+* TBD: Final Projects Due
 
 #### Final Project
 
