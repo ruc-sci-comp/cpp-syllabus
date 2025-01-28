@@ -4,7 +4,7 @@
 
 **Time**: Monday 6:00pm - 8:50pm
 
-**Location**: BSB-335
+**Location**: Campus Center - North Conference Room
 
 **Office Hours**: By appointment
 
